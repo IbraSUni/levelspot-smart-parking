@@ -6,9 +6,10 @@ The full project document is [`LevelSpot_Project_Document_v1.0.docx`]. A new ver
 
 ## Weekly updates
 
-| Version | Date       | What changed                                                                            |
-| ------- | ---------- | --------------------------------------------------------------------------------------- |
-| 1.0     | 09/10/2026 | Competitive research, Vision and Scope, first SRS draft (28 FRs, 13 NFRs, 19 use cases) |
+| Version | Date       | What changed                                                                                                                         |
+| ------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 1.0     | 09/10/2026 | Competitive research, Vision and Scope, first SRS draft (28 FRs, 13 NFRs, 19 use cases)                                              |
+| 2.0     | 09/17/2026 | Work breakdown structure (3 levels), story point and COCOMO estimates, draft schedule with dependencies, milestones, and Gantt chart |
 
 Author: Ibraheem Siddiqui
 Student ID: 2129775
