@@ -2,7 +2,7 @@
 
 CIS 4374 semester project. $oftware ¢orp (fictional) is planning and building LevelSpot, a live parking availability and reservation platform, for Buffalo Bayou Garage Partners, a fictional Houston parking operator.
 
-The full project document is [`LevelSpot_Project_Document_v7.0.docx`](LevelSpot_Project_Document_v7.0.docx). A new version gets added every week.
+The full project document is [`LevelSpot_Project_Document_v8.0.docx`](LevelSpot_Project_Document_v8.0.docx). A new version gets added every week.
 
 ## Post-mortem (separate from the project document)
 
@@ -27,3 +27,4 @@ Both charters are Section 11 of the project document. They are also here as stan
 | 5.0 | 10/15/2026 | Revisions driven by the first 9 facility surveys: 6 of 23 facilities are surface lots with no gate to read events from. Changes across the SRS, WBS, estimate, schedule, backlog, sprints, risk register, roster, cost baseline, and RACI. Tool selection, branching, and CI/CD added to Section 7. |
 | 6.0 | 10/29/2026 | Stakeholder analysis on the power-interest grid, project charter, and team charter added as Section 11. Table of contents page numbers corrected. |
 | 7.0 | 11/05/2026 | Project closure report added as Section 14, marked internal, drafted at the design phase checkpoint (M2). October earned value reading, milestone variance against the charter baseline, lessons learned, and recommendations. Separate post-mortem added on the FBI Virtual Case File. |
+| 8.0 | 11/19/2026 | Two week update. Gate vendor survey closed November 13, a week early, across all 23 facilities: 16 gate event, 5 camera counting, 2 capacity model. Contingency cut from 15% to 10% and the budget re-baselined down to $3,510,980. Sprint 1 closed at 50 of 58 points, sprint 2 in progress, sprint 3 planned. R5 and R17 closed, R6 and R11 rescored, R18 added. Section 14 extended with a post-project maintenance and scaling proposal (14.11 to 14.13). |
